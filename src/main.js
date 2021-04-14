@@ -19,7 +19,7 @@ Vue.use(VueGeolocation)
 import * as VueGoogleMaps from 'vue2-google-maps'
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "AIzaSyBo2DTaTpBeRvzTvC4Wgo7AQWyVGKFUTtE",
+    key: "Google-Api-Key",
     libraries: ["places"]
   },
 })
